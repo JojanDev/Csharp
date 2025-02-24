@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FacturaVeterinariaPipos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd78f48d0453b055179b158b004984fe933abe47")]
 [assembly: System.Reflection.AssemblyProductAttribute("FacturaVeterinariaPipos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FacturaVeterinariaPipos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
