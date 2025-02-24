@@ -1,0 +1,14 @@
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\bin\Debug\net8.0\FacturaVeterinariaPipos.exe
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\bin\Debug\net8.0\FacturaVeterinariaPipos.deps.json
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\bin\Debug\net8.0\FacturaVeterinariaPipos.runtimeconfig.json
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\bin\Debug\net8.0\FacturaVeterinariaPipos.dll
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\bin\Debug\net8.0\FacturaVeterinariaPipos.pdb
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.AssemblyInfoInputs.cache
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.AssemblyInfo.cs
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.csproj.CoreCompileInputs.cache
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.dll
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\refint\FacturaVeterinariaPipos.dll
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.pdb
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\FacturaVeterinariaPipos.genruntimeconfig.cache
+D:\ADSO\2894667\C#\FacturaVeterinariaPipos\obj\Debug\net8.0\ref\FacturaVeterinariaPipos.dll
